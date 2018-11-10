@@ -18,3 +18,5 @@ npm install -g @vue/cli @vue/cli-service-global
 vue serve
 # => localhost:8080
 ```
+
+check out the [NativeScript-Vue demo here](https://github.com/IgorHalfeld/vuejs-brazil-blog-app)
