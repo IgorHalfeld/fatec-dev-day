@@ -12,5 +12,9 @@
 ### Run
 
 ```sh
-npm install -g @vue/cli vue-cli-se
+npm install -g @vue/cli @vue/cli-service-global
+
+# Vue command will be available
+vue serve
+# => localhost:8080
 ```
